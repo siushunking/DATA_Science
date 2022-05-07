@@ -2,7 +2,9 @@
 
  ## Regression
 (question)polyynomialRegression.ipynb
+
 LinearRegression.ipynb
+
 multipleRegressionAnalysis.ipynb
 
 ## cluster
