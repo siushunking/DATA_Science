@@ -19,5 +19,7 @@ Ann.ipynb
 
 ## Python project
 StockAlert.ipynb
+
 teachableML.ipynb
+
 情緒分析.ipynb
